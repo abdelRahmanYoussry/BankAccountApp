@@ -1,16 +1,22 @@
-# basic_banking_app
+# basic_banking_app(Sqflite ,bloc(Cubit))
 
-A new Flutter project.
+Simple Bank Account App.
 
-## Getting Started
+Features:
 
-This project is a starting point for a Flutter application.
+1)Add User
 
-A few resources to get you started if this is your first Flutter project:
+2)Show All Users
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2)Transfer Money to Users
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3)Show All Transcations
+
+#video
+
+
+
+
+
+https://user-images.githubusercontent.com/92960112/197086867-4bd8e744-db76-4f12-b57d-bf883184e25c.mp4
+
